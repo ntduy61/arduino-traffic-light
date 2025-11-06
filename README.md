@@ -21,7 +21,8 @@ Practice timing control with multiple LEDs
 
 Great beginner Arduino project to learn programming logic
 
----
+<img width="1266" height="737" alt="arduino-traffic-light" src="https://github.com/user-attachments/assets/050fab6e-f5a2-4bf7-a7b4-6c0b06051979" />
+
 
 ## 🎥 Demo Video
 👉 Watch on TikTok: [@thanhduy.it](https://www.tiktok.com/@thanhduy.it)
