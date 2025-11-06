@@ -42,10 +42,10 @@ Great beginner Arduino project to learn programming logic
 
 | Arduino Pin | Connection | Description |
 |--------------|-------------|-------------|
-| 2 | Red LED | Through 220Ω resistor |
-| 3 | Yellow LED | Through 220Ω resistor |
-| 4 | Green LED | Through 220Ω resistor |
-| 5–11 | Segments a–g | Connect directly |
+| 10 | Red LED | Through 220Ω resistor |
+| 11 | Yellow LED | Through 220Ω resistor |
+| 12 | Green LED | Through 220Ω resistor |
+| 2–8 | Segments a–g | Connect directly |
 | GND | 7-Segment common | Common cathode |
 
 ---
